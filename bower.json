@@ -1,0 +1,15 @@
+{
+    "name": "CircleTimer",
+    "version": "1.0.0",
+    "main": "lib/circle-timer.js",
+    "ignore": [
+        "example/*",
+        "package.json"
+    ],
+    "dependencies": {
+        "raphael": "2.1.x"
+    },
+    "devDependencies": {
+        "<test-framework-name>": "<version>"
+    }
+}

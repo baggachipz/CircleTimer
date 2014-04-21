@@ -1,0 +1,26 @@
+{
+    "name": "CircleTimer",
+    "preferGlobal": true,
+    "version": "0.1.0",
+    "author": "Matt Curtis <mattcurtis@gmail.com>",
+    "description": "Raphael extension to create a circle timer and execute a callback when it's finished.",
+    "contributors": [
+        {
+            "name": "Matt Curtis",
+            "email": "mattcurtis@gmail.com"
+        }
+    ],
+    "main": "./lib/circle-timer.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/baggachipz/CircleTimer.git"
+    },
+    "keywords": [
+        "timer",
+        "raphael"
+    ],
+    "dependencies" : {
+        "raphael"  :  "2.1.x"
+    },
+    "license": "MIT"
+}
