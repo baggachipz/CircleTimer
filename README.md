@@ -18,7 +18,6 @@ $('#timer').CircleTimer(10000,
 ).start();
 ```
 
-
 Options:
  *  **bgColor**: color of the timer circle background. defaults to #fff.
  *  **fgColor**: color of the timer circle foreground and ticker text. defaults to #fe9149.
@@ -31,3 +30,7 @@ Methods:
  *  **start()**: start the timer countdown.
  *  **stop()**: stop the timer and clear it.
  *  **ffwdToEnd()**: rapidly deplete the counter down to zero and show error color. Does not execute callback. 
+
+Usage notes:
+ * Control will automatically fit to its container.
+ * If the container is not a square, the control will fit to the smallest side (width or height) of the container.
