@@ -1,0 +1,12 @@
+#example1 {
+    width: 500px;
+    margin: 20px auto;
+    border: 1px solid grey;
+    text-align: center;
+}
+
+#timer1 {
+    width: 150px;
+    height: 150px;
+    margin: 10px auto;
+}
