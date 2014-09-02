@@ -3,7 +3,7 @@ CircleTimer
 
 Raphael extension to create a circle timer and execute a callback when it's finished.
 
-![Alt text](https://raw.githubusercontent.com/baggachipz/CircleTimer/master/example/screenshot.png)
+![Screenshot example](https://raw.github.com/baggachipz/CircleTimer/master/example/screenshot.png)
 
 ```javascript
   CircleTimer(timeInMs, optionsObject, callback);
